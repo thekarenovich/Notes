@@ -1,6 +1,4 @@
-Команды Git
-
-Git - система контроля версий
+Команды системы контроля версий Git
 
 git config --global user.name " {никнэйм} "
 git config --global user.email {почта}
