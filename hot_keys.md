@@ -1,4 +1,4 @@
-For MacOS
+Hot keys for MacOS
 
 Fn Function
 Ctrl Control
