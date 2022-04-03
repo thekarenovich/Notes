@@ -1,0 +1,60 @@
+article {
+
+	height: 100px;
+	width: 50%;
+	background-color: green;
+	float: left;
+	margin-right: 20px;
+	padding: 35px;
+	color: white;
+	border: 5px solid silver;
+	cursor: help;
+	font-size: 20px;
+	font-family: Arial;
+
+}
+
+#a {
+	color: green;
+}
+
+.c {
+	color: red;
+}
+
+[title="Hey"] {
+
+	color: blue;
+}
+
+a:active {
+	color: green;
+}
+
+a:hover {
+	color: green;
+}
+
+p:empty {
+	width: 30px;
+	height: 30px;
+	background-color: black;
+}
+
+b:first-child {  /* b:last-child */
+
+	width: 10px;
+	height: 10px;
+	background-color: red;
+}
+
+* {
+
+	padding: 0px; /* внутренний отступ*/
+	margin: 0px; /* внешний отступ*/
+}
+
+ul > li {
+
+	display: inline;
+}
