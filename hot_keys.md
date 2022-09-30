@@ -6,6 +6,13 @@ CMD Command
 Shift
 Caps Lock
 
+
+cmd + shift + . 
+показать скрытые файлы(дважды - скрыть их)
+
+cmd + shift + G 
+перейти к папке 
+
 cmd + s
 сохранить
 
