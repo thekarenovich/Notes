@@ -1,12 +1,12 @@
-Hot keys for MacOS
+Hot keys for MacOS ))
 
 Fn Function
 Ctrl Control
-CMD Command
+CMD Command    
 Shift
 Caps Lock
 
-
+   
 cmd + shift + . 
 показать скрытые файлы(дважды - скрыть их)
 
