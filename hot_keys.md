@@ -1,12 +1,16 @@
 ### Hot keys for MacOS ))
 
 > Fn Function
+> 
 > Ctrl Control
+> 
 > CMD Command    
+> 
 > Shift
+> 
 > Caps Lock
 
-   
+   ___
 > cmd + shift + . 
 > показать скрытые файлы(дважды - скрыть их)
 > 
