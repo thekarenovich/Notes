@@ -5,7 +5,7 @@
 > git config --global user.email {почта}
 ___
 > mkdir {название_папки}
-> 
+>  
 > cd {название_папки}
 >  
 > git init  
